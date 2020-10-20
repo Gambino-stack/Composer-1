@@ -1,0 +1,16 @@
+{
+    "name": "macbookyohan/autoload",
+    "description": "Projet quete autoload",
+    "authors": [
+        {
+            "name": "Gambino-stack",
+            "email": "69907371+Gambino-stack@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+
+}
